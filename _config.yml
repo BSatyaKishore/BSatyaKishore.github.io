@@ -1,9 +1,9 @@
-title: Parchment
+title: Satya.Solutions
 author: pro-panda
-subtitle: The life of a frustrated engineer
+subtitle: Bloging our thought trains
 
-url: "https://pro-panda.github.io"
-baseurl: "/parchment"
+url: "https://satya.solutions"
+baseurl: "/"
 
 footer_only_homepage: true
 footer_url: "https://github.com/pro-panda"
@@ -20,5 +20,3 @@ sass:
 navbar:
  - name: "About"
    link: "about"
- - name: "Resume"
-   absolute-link: "https://pro-panda.github.io/resume.pdf"
