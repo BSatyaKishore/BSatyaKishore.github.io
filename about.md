@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Me
+title: About SATYA.(ai)SOLUTIONS
 ---
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
@@ -17,9 +17,5 @@ Here are a few things I've learned over the years,
 
 > There are very few problems that can't be solved through a suitable application of high explosives.
 
-### Publications
-1. Dilbert, Ratbert: "Effects of having a dog and a dinasaur in the same house", _Journal of Wierd Studies_
-2. Alice, Dilbert, Wally: "Efficient ways to deal with a dumb manager", _Conference of Frustrated Engineers_
-
-### Contact Me
-No thanks, I have enough problems of my own to deal with.
+### Contact Us
+No thanks, we have enough problems to deal with. But if you want to chat, email us at me@satya.solutions
