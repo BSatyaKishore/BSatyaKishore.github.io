@@ -9,13 +9,18 @@ I'm Dilbert. I've been working as a Software Engineer for over 30 years. I like 
 
 On a personal front, I live with two amazing pets - Dogbert and Ratbert, and three dinasours - Bob, Rex and Dawn - who're hiding from the rest of the world. I'm single and have few friends due to my poor social skills, but I usually spend my time playing with computers and technology.
 
-### Life Advice
-Here are a few things I've learned over the years,
-> An optimist is simply a pessimist with no job experience.
+### Services
+
+Here are a few services we offer,
+> Product Development as a Service
 
 > All of your co-workers are fools. You must learn to pity and tolerate them.
 
 > There are very few problems that can't be solved through a suitable application of high explosives.
+
+### Products Developed
+
+> www.ExamPlus.in
 
 ### Contact Us
 No thanks, we have enough problems to deal with. But if you want to chat, email us at me@satya.solutions
