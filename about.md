@@ -20,7 +20,7 @@ Here are a few services we offer,
 > [ExamPlus](www.ExamPlus.in), an IIT Delhi CS alumni product, is a platform to create online mock-tests for JEE main, JEE advanced, NEET and other tests from a large database of questions. The created mock-tests can be taken simultaneously by lakhs of students on either mobile, tablet or PC. Examplus also provides AI powered analysis and tools along with the grades to help students learn faster and better.
 
 ### Contact Us
-No thanks, we have enough problems to deal with. But if you want to chat, email us at me@satya.solutions
+No thanks, we have enough problems to deal with.
 
 
 \* Until Scaled
