@@ -19,6 +19,6 @@ sass:
 
 navbar:
  - name: "About"
-   link: "/"
+   link: "index"
  - name: "Blog"
    link: "blog"
