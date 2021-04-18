@@ -14,3 +14,4 @@ Plastic is mostly made of hydrogen & carbon and thus can be a fuel. But when bur
 
 But, plastic comes with everything including clothes, medicines, electronics, solar panels, toys, also adding to this, plastic waste can be soiled. Still need to study if  plastic with these materials can be thermally recycled with out a lot of investment. Also, need to study how much investment or challenges these factories have to burn plastic.
 
+	
