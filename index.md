@@ -17,7 +17,16 @@ Here are a few services we offer,
 
 ### Products Developed
 
+> [Wiki With Wisdom](https://home.wikiwithwisdom.org), we (under guidance of Tapan K. Gandhi at IIT Delhi as part of M. Tech Thesis) created an AI based domain specific framework, based on [Magical World Hypothesis](https://www.pnas.org/content/111/42/15220) for Autism, which when tuned for domain, understand (predict) individual’s abilities and give problems based on his/her's abilites to help them learn faster. To test this, we developed two games, one for temporal domain and other for spatial domain for children with Autism.
+
 > [ExamPlus](www.ExamPlus.in), an IIT Delhi CS alumni product, is a platform to create online mock-tests for JEE main, JEE advanced, NEET and other tests from a large database of questions. The created mock-tests can be taken simultaneously by lakhs of students on either mobile, tablet or PC. Examplus also provides AI powered analysis and tools along with the grades to help students learn faster and better.
+
+> [One Acre Fund](https://oneacrefund.org) India, a part of One Acre Fund global organisation, has a pilot project in Motihari, Bihar with 2000+ farmers enrolled. Developed and released app for Field Officers and Tech enabled farmers to make enrollments easy during the time of COVID and otherwise. Also, developing several other scripts including SMS push notifications and so on to improve the operational efficiencies. 
+
+### Partner Products
+
+> Naulets, IIT Delhi CS alumni product, by Tarun Kota, Abhimanyu Kumar and Kshitij Morodia, is a card based learning app to help UPSC aspirants to learn faster.
+
 
 ### Contact Us
 No thanks, we have enough problems to deal with.
