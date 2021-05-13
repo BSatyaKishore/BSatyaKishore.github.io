@@ -11,8 +11,9 @@ At the spot of vaccination, the nurse opened the seal of 5 ml vial and took arou
 
 Later that day, I read the following,
 
-```
 "Each 5 ml vial of the vaccine has 10 doses in total. And, once opened, all 10 doses have to be consumed within four hours, otherwise, it goes waste, and the remaining doses have to be destroyed," RGSSH spokesperson Chhavi Gupta told PTI. 
-```
 
-While Delhi is begging for more share of vaccines, operational inefficiencies are wasting vaccines in rural places. And this is frustrating. And why the vials are kept in 5 ml bottles instead of 1 ml bottle ? Why didn't we bother to change the design ? And infinite similar questions.
+
+While Delhi is begging for more share of vaccines, operational inefficiencies are wasting vaccines in rural places. And this is frustrating. 
+
+Why the vials are kept in 5 ml bottles instead of 1 ml bottle ? Why didn't we bother to change the design ? And infinite similar questions.
