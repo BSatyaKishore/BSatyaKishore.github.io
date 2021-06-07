@@ -5,10 +5,6 @@ title: About Plus Delta (formely SATYA.(ai)SOLUTIONS)
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-We like to build products which help others digitize their working. We want to do it fast for engineering costs are higher than server costs\*. We care for partnerships for it is the easiest way to reduce engineering costs. If you are looking to partner, email us at me@satya.solutions
-
-\* Until Scaled
-
 ### Mission
 
 To enable 100 ideas.
