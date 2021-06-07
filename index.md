@@ -9,6 +9,18 @@ We like to build products which help others digitize their working. We want to d
 
 \* Until Scaled
 
+### Mission
+
+To enable 100 ideas.
+
+#### Focus Sectors
+
+> **Ed Tech**
+
+> **Assistive Tech**
+
+> **Food Tech**
+
 ### Services
 
 Here are a few services we offer,
@@ -19,13 +31,7 @@ Here are a few services we offer,
 
 > **Alpha consumer program**, we want to keep ourselves updated on new technologies, ideas. If you are building something great, we want to learn and support it. 
 
-### Sectors
 
-> **Ed Tech**
-
-> **Assistive Tech**
-
-> **Food Tech**
 
 ### Idea Enablement Service Package
 
@@ -46,7 +52,6 @@ Here are a few services we offer,
 ### "FREE" Free Lancing
 
 > Worked on reducing Digital Divide in COVID-19 Vaccination by sending SMS to 300+ farmers in rural areas a volunteer number to help them register for COVID-19 vaccine. **Impact**: Registered 3 familes for COVID-19 Vaccination on phone.
-
 
 ### Products Developed By Satya K. Budumuru
 
