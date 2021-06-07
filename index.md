@@ -39,6 +39,8 @@ Here are a few services we offer,
 
 > The Ramayana Game, again by Tarun Kota and Abhimanyu Kumar, is a upcoming Role Playing Game (RPG) for mobile. Immerse in the complete journey of Rama with this game. Watch trailer [here](https://www.youtube.com/watch?v=qZI8CL8EsbI). This project is selected for Toycathon competation. 
 
+> [Paisa DB](https://paisadb.com), an investment portifolio maintained by IIMC, IITD alumni, Deepak Basavaraju, is a low-frequency trading system born from a love for money and data. At paisaDB, investing is done right and it offers various services including investment advisory, fixed return trading accounts and full-fledged portfolio managment services.
+
 ### Alpha consumer program
 
 > [Node Red](https://nodered.org) is a flow-based programming tool. Developing several small apps using node-red.
