@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Plus Delta (formely SATYA.(ai)SOLUTIONS)
+title: About Plus Delta
 ---
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
@@ -45,6 +45,8 @@ Here are a few services we offer,
 
 > [Paisa DB](https://paisadb.com), an investment portifolio maintained by IIMC, IITD alumni, Deepak Basavaraju, is a low-frequency trading system born from a love for money and data. At paisaDB, investing is done right and it offers various services including investment advisory, fixed return trading accounts and full-fledged portfolio managment services.
 
+> [Amplify DataStore](https://docs.amplify.aws/lib/datastore/how-it-works/q/platform/js) is an offline first serverless framework. Building ExamPlus using it.
+
 ### "FREE" Free Lancing
 
 > Worked on reducing Digital Divide in COVID-19 Vaccination by sending SMS to 300+ farmers in rural areas a volunteer number to help them register for COVID-19 vaccine. **Impact**: Registered 3 familes for COVID-19 Vaccination on phone.
@@ -57,3 +59,5 @@ Here are a few services we offer,
 
 ### Contact Us
 No thanks, we have enough problems to deal with.
+
+SATYA.(ai)SOLUTIONS PRIVATE LIMITED
