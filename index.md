@@ -35,7 +35,7 @@ Here are a few services we offer,
 
 ### Partner Products
 
-> [Naulets](https://naulets.com), an IIT Delhi CS alumni product, by Tarun Kota, Abhimanyu Kumar and Kshitij Morodia, is a card based learning app to help UPSC aspirants learn faster. The cards, designed carefully, are clear, concise and intuitive, making it the goto app for civils prep.
+> [Naulets](https://naulets.com), an IIT Delhi CS alumni product, by Tarun Kota, Dr. House and Kshitij Morodia, is a card based learning app to help UPSC aspirants learn faster. The cards, designed carefully, are clear, concise and intuitive, making it the goto app for civils prep.
 
 > The Ramayana Game, again by Tarun Kota and Abhimanyu Kumar, is a upcoming Role Playing Game (RPG) for mobile. Immerse in the complete journey of Rama with this game. Watch trailer [here](https://www.youtube.com/watch?v=qZI8CL8EsbI). This project is selected for Toycathon competation. 
 
